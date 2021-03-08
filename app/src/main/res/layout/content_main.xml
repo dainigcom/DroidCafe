@@ -84,6 +84,7 @@
         app:layout_constraintHorizontal_bias="0.476"
         app:layout_constraintStart_toEndOf="@+id/ice_cream"
         app:layout_constraintTop_toTopOf="@+id/ice_cream" />
+
     <TextView
         android:id="@+id/textView3"
         android:layout_width="0dp"
